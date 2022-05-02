@@ -8,3 +8,5 @@ Si no sabes cómo correr código, acá te paso algunas herramientas que te podr�
 * [Google Colab](https://colab.research.google.com/?utm_source=scs-index)
 * [Jupyter Notebook](https://jupyter.org/)
 * [Visual Studio Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
+
+
